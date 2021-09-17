@@ -1,0 +1,37 @@
+/* all */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	--color-primary: #fcffd3;
+	--color-second: #ddd;
+	--color-thirty: #000;
+}
+
+/* Elementos */
+
+html {
+	font-size: 17px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Spartan', sans-serif;
+}
+
+h1 {font-size: 5rem;}
+h2 {font-size: 2.7rem;}
+h3 {font-size: 2.4rem;}
+h4 {font-size: 2.1rem;}
+
+p, a {
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 1rem;
+	text-align: justify;
+	line-height: 1.6rem;
+	word-spacing: 0.2rem;
+}
